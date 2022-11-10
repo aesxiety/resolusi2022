@@ -1,4 +1,8 @@
 -kuliah
+ *belajar
+ *beli buku
 -beli laptop
+ *nabung
+ *nendang pintu
 -bisa ngoding
 -beli mobil
