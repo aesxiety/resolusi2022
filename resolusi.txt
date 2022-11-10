@@ -9,3 +9,4 @@
 -beli mobil
  *judi
 - Naik Haji
+  *kerja keras
